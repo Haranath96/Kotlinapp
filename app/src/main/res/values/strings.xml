@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AllAboutMe</string>
+    <string name="name">Haranath</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Haranath.
+\n\nMy name is Haranath
+\n\nI am currently working as a Software developer at Oracle.I graduated at NIT Calicut with Computer science as mainstream.
+\nI like to travel and it is my only hobby that makes me proud. Till now i travelled a lot of places and covered 2 states which are Tamilnadu and Maharashtra.
+\nI developed this app as a part of Kotlin course organized by Google developers. I joined this course after seeing a post in linkedin.
+\nThrough this course, i learnt Kotlin programming language well and developed some simple Android apps.
+
+</string>
+</resources>
